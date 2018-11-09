@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('pages.landing');
 });
 
-Route::get('insert','OrmController@insert');
+Route::post('insert','OrmController@insert');
