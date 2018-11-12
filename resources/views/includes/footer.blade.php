@@ -4,15 +4,15 @@
 				<div class="row">
 
 					<div class="col-lg-3 col-md-6 footer-info">
-						<img src="img/logo.png" alt="TheEvenet">
-						<p>In alias aperiam. Placeat tempore facere. Officiis voluptate ipsam vel eveniet est dolor et totam porro. Perspiciatis ad omnis fugit molestiae recusandae possimus. Aut consectetur id quis. In inventore consequatur ad voluptate cupiditate debitis accusamus repellat cumque.</p>
+						<img src="{{asset('assets/img/apple-touch-icon.png')}}" alt="LockSEK">
+						<p>LockSEK es una plataforma de administracion de claves para cerraduras electrionicas accionadas por dispositivos USB.</p>
 					</div>
 
 					<div class="col-lg-3 col-md-6 footer-links">
 						<h4>Links de interes</h4>
 						<ul>
-							<li><i class="fa fa-angle-right"></i> <a href="#">Home</a></li>
-							<li><i class="fa fa-angle-right"></i> <a href="#">Sobre nosotros</a></li>
+							<li><i class="fa fa-angle-right"></i> <a href="#intro">Home</a></li>
+							<li><i class="fa fa-angle-right"></i> <a href="#about">Sobre nosotros</a></li>
 							<li><i class="fa fa-angle-right"></i> <a href="#">Servicios</a></li>
 							<li><i class="fa fa-angle-right"></i> <a href="#">Condiciones de servicio</a></li>
 							<li><i class="fa fa-angle-right"></i> <a href="#">Politica de privacidad</a></li>

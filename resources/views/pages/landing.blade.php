@@ -96,8 +96,8 @@ About Section
           <div class="speaker">
             <img src="{{asset('assets/img/speakers/4.jpg')}}" alt="Speaker 4" class="img-fluid">
             <div class="details">
-              <h3><a href="speaker-details.html">Minion1</a></h3>
-              <p>Iker</p>
+              <h3><a href="speaker-details.html">Iker</a></h3>
+              <p>ASIR</p>
               <div class="social">
                 <a href=""><i class="fa fa-twitter"></i></a>
                 <a href=""><i class="fa fa-facebook"></i></a>
@@ -111,8 +111,8 @@ About Section
           <div class="speaker">
             <img src="{{asset('assets/img/speakers/5.jpg')}}" alt="Speaker 5" class="img-fluid">
             <div class="details">
-              <h3><a href="speaker-details.html">Minion2</a></h3>
-              <p>Eneko</p>
+              <h3><a href="speaker-details.html">Eneko</a></h3>
+              <p>ASIR</p>
               <div class="social">
                 <a href=""><i class="fa fa-twitter"></i></a>
                 <a href=""><i class="fa fa-facebook"></i></a>
@@ -126,8 +126,8 @@ About Section
           <div class="speaker">
             <img src="{{asset('assets/img/speakers/6.jpg')}}" alt="Speaker 6" class="img-fluid">
             <div class="details">
-              <h3><a href="speaker-details.html">Minion3</a></h3>
-              <p>Gorka</p>
+              <h3><a href="speaker-details.html">Gorka</a></h3>
+              <p>ASIR</p>
               <div class="social">
                 <a href=""><i class="fa fa-twitter"></i></a>
                 <a href=""><i class="fa fa-facebook"></i></a>

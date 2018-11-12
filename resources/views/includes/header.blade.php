@@ -13,7 +13,6 @@
         <li><a href="#about">Sobre LockSEK</a></li>
         <li><a href="#speakers">Nosotros</a></li>
         <li><a href="#gallery">Galeria</a></li>
-        <li><a href="#sponsors">Sponsors</a></li>
         <li><a href="#contact">Contacto</a></li>
         <li class="buy-tickets"><a href="#">Iniciar sesion</a></li>
       </ul>
