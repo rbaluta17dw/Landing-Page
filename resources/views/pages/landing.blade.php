@@ -3,11 +3,11 @@
 @section('content')
 <section id="intro">
 <div class="intro-container wow fadeIn">
-  <h1 class="mb-4 pb-0">La <span>cerradura</span><br> mas accesible del mundo</h1>
+  <h1 class="mb-4 pb-0">La <span>plataforma</span><br> mas <span>accesible</span> del mundo</h1>
   <p class="mb-4 pb-0">Abre tus cerraduras con llaves electronicas</p>
   <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
   data-autoplay="true"></a>
-  <a href="#about" class="about-btn scrollto">Sobre LockSEK</a>
+  <a href="#" class="about-btn scrollto">Registrate</a>
 </div>
 </section>
 

@@ -15,6 +15,7 @@
         <li><a href="#gallery">Galeria</a></li>
         <li><a href="#contact">Contacto</a></li>
         <li class="buy-tickets"><a href="#">Iniciar sesion</a></li>
+    
       </ul>
     </nav><!-- #nav-menu-container -->
   </div>
