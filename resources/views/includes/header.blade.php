@@ -33,8 +33,9 @@
       <span style="color: red;" id="texto"></span>
       <input type="email" name="email" placeholder="email" oninput="validate()">
       <input type="text" name="password" placeholder="password">
-      <input type="submit" disabled id="disabled" class="disabled" name="login" value="Login">
       <input type="number" min="100000000" max="999999999" required name="" value="">
+      <input type="submit" disabled id="disabled" class="disabled" name="login" value="Login">
+
     </form>
     <a href="https://codepen.io/collection/XdWJOQ/">Forget Password<a>
   </div>
