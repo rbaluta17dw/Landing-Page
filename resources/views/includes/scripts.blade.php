@@ -14,3 +14,4 @@
 
 <!-- Template Main Javascript File -->
 <script src="{{asset('assets/js/main.js')}}"></script>
+<script src="{{asset('js/script.js')}}"></script>

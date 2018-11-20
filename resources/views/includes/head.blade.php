@@ -21,3 +21,4 @@
 
 <!-- Main Stylesheet File -->
 <link href="{{asset('assets/css/style.css')}}" rel="stylesheet">
+<link href="{{asset('css/landing.css')}}" rel="stylesheet">
