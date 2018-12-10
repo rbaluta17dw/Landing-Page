@@ -53,7 +53,7 @@
   box-sizing: border-box;
   padding: 60px 30px;
   transition: 0.5s;
-  background-color: black;
+  background-color: grey;
 }
 
 .login-form:hover {
@@ -69,8 +69,8 @@
 }
 
 .login-form input {
-  display: block;
-  width: 100%;
+
+  width: 80%;
   padding: 10px 20px;
   box-sizing: border-box;
   margin-bottom: 20px;
@@ -79,7 +79,6 @@
   font-size: 14px;
   letter-spacing: 1px;
   color: white;
-  text-transform: uppercase;
   border: none;
   background-color: rgba(255, 255, 255, 0.1);
   font-family: 'Roboto Condensed', sans-serif;
@@ -124,4 +123,22 @@
 
 .disabled:hover {
   background-color: black;
+}
+
+.sprite{
+
+  background: url("../assets/app/icons.svg");
+  display: inline-block;
+}
+
+#usuario{
+  width: 40px;
+  height: 39px;
+  background-position: -320px 0px;
+}
+
+#contrasena{
+  width: 40px;
+  height: 39px;
+  background-position: -610px -40px;
 }

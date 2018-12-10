@@ -11,11 +11,10 @@
     <ul class="nav-menu">
       <li class="menu-active"><a href="#intro">Inicio</a></li>
       <li><a href="#about">Sobre LockSEK</a></li>
-      <li><a href="#speakers">Nosotros</a></li>
+      <li><a href="#speakers">Quienes Somos</a></li>
       <li><a href="#gallery">Galeria</a></li>
       <li><a href="#contact">Contacto</a></li>
       <li class="buy-tickets"><a href="#" id="modalStart">Iniciar sesion</a></li>
-
     </ul>
   </nav><!-- #nav-menu-container -->
 </div>
@@ -27,15 +26,14 @@
       <span class="close"></span>
 
   <div class="login-form">
-    <h1>Sign In</h1>
+    <h1>Ingrese</h1>
     <form name="login" action="login" method="get" >
       <span style="color: red;" id="emailValidate"></span>
       <span style="color: red;" id="texto"></span>
-      <input type="email" name="email" placeholder="email" oninput="validate()">
-      <input type="text" name="password" placeholder="password">
-      <input type="number" min="100000000" max="999999999" required name="" value="">
+      <div id="usuario" class="sprite"></div><input type="email" name="email" placeholder="Email" oninput="validate()">
+      <div id="contrasena" class="sprite"></div><input type="text" name="password" placeholder="Password">
+      <input type="number" placeholder="Telefono" min="100000000" max="999999999" required name="" value="">
       <input type="submit" disabled id="disabled" class="disabled" name="login" value="Login">
-
     </form>
     <a href="https://codepen.io/collection/XdWJOQ/">Forget Password<a>
   </div>
